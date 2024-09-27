@@ -29,8 +29,8 @@ class IntroScreen:
             self.screen.blit(self.intro_bg, (0, 0))
 
             # Create title text with shadow
-            title_text = self.font.render('LEGEND OF ZELDA', True, (255, 255, 255))
-            title_shadow = self.font.render('LEGEND OF ZELDA', True, (0, 0, 0))
+            title_text = self.font.render('LEGEND OF VALHALLA', True, (255, 255, 255))
+            title_shadow = self.font.render('LEGEND OF VALHALLA', True, (0, 0, 0))
 
             # Draw shadow first (slightly offset)
             self.screen.blit(title_shadow, (self.screen.get_width() // 2 - title_text.get_width() // 2 + 2, self.screen.get_height() // 3 + 2))
