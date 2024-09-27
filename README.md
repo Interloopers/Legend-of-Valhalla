@@ -54,7 +54,11 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 
 ## 📸 Screenshots
 
-### 🍣 1️⃣ Intro Page
+### 1️⃣ Intro Page
+![Intro Page](./screenshots/intro_page.png)
+### 2️⃣ Main Page
+![Intro Page](./screenshots/intro_page.png)
+### 3️⃣ Inventory Page
 ![Intro Page](./screenshots/intro_page.png)
 
 ## 🕹️ **Installation**  
