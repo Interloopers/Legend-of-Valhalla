@@ -37,7 +37,10 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 1. **Move** using `WASD` or the arrow keys.
 2. **Attack** using `Spacebar` for melee and `Left CTRL` for magic.
 3. **Switch Weapons** with `Q` and **Switch Magic** with `E`.
-4. **Upgrade Stats** using the EXP earned from defeating enemies.
+4. **Upgrade Stats** by pressing `M` to spend EXP earned from defeating enemies.
+5. **Inventory** using `I` for viewing the inventory
+6. **Pause** using `P` to pause the game
+7. **Escape** using `Esc` to quit the game
 
 ## 🔧 **Future Plans**  
 - **Multiplayer**: Engage in cooperative or competitive play with friends! (Planned feature)
