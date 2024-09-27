@@ -57,9 +57,9 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 ### 1️⃣ Intro Page
 ![Intro Page](./screenshots/intro_page.png)
 ### 2️⃣ Main Page
-![Intro Page](./screenshots/intro_page.png)
+![Intro Page](./screenshots/main_page.png)
 ### 3️⃣ Inventory Page
-![Intro Page](./screenshots/intro_page.png)
+![Intro Page](./screenshots/inventory_page.png)
 
 ## 🕹️ **Installation**  
 1. Clone the repository:  
