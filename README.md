@@ -52,8 +52,10 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 - **Special Thanks**: To all contributors during the game jam and the community for their support! 🎉
 
 
-## 📸 **Screenshots**  
-*(Add some screenshots of your game here to give players a preview of the action!)*
+## 📸 Screenshots
+
+### 🍣 1️⃣ Intro Page
+![Intro Page](./screenshots/intro_page.png)
 
 ## 🕹️ **Installation**  
 1. Clone the repository:  
