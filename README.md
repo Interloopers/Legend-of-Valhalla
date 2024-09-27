@@ -45,7 +45,7 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 - **Storyline Enhancements**: More quests, richer lore, and deeper character interactions.
 
 ## 📜 **Credits**  
-- **Developers**: [@ShubhamBendre](https://github.com/Shubham-Bendre), [@teammember1](https://github.com/teammember1), [@teammember2](https://github.com/teammember2)
+- **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH)
 - **Special Thanks**: To all contributors during the game jam and the community for their support! 🎉
 
 
