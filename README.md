@@ -56,3 +56,7 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/The-Legend-of-Valhalla.git
+
+2. Run the main file:
+   ```bash
+   python main.py
