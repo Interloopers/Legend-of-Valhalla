@@ -1,4 +1,4 @@
-# ⚔️ **The Legend of Valhalla** ⚔️  
+# ⚔️ **The Legend of Valhalla** ⚔️  o
 **A Top-Down Action-Adventure Game**  
 🛠️ *Created during a thrilling Game Jam* 🛠️
 
