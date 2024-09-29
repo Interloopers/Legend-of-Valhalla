@@ -1,9 +1,10 @@
-# ⚔️ **The Legend of Valhalla** ⚔️
+# ⚔️ **The Legend of Valhalla** ⚔️  
 **A Top-Down Action-Adventure Game**  
-🛠️ *Created during a thrilling Game Jam* 🛠️
+🎮 *Cognition Game Jam '24 Qualifier* 🎮  
 
 ## 🌟 **Overview**  
-Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure where players embark on an epic journey in the world of Norse mythology. With its smooth combat, exciting magic system, and visually immersive sprite-based world, this game promises hours of captivating gameplay.
+Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure set in the mythological realms of Norse legends. Players embark on an epic journey filled with intense combat, a rich magic system, and visually immersive sprite-based environments. This game was submitted for the **Cognition Game Jam '24 Qualifier**, where it stood out from 64 teams and was proudly selected as one of the **top 12 finalists**, marking it as a testament to the engaging gameplay and captivating world of Valhalla.
+
 
 ## 🎮 **Key Features**  
 - **Top-Down Adventure**: Explore vibrant, pixel-art environments inspired by Norse mythology.
@@ -48,8 +49,8 @@ Welcome to **The Legend of Valhalla**, an action-packed, top-down adventure wher
 - **Storyline Enhancements**: More quests, richer lore, and deeper character interactions.
 
 ## 📜 **Credits**  
-- **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH)
-- **Special Thanks**: To all contributors during the game jam and the community for their support! 🎉
+- **Developers**: [@Shubham_Bendre](https://github.com/Shubham-Bendre), [@Malhar_Singh](https://github.com/Malhar2400), [@Yash_Chougule](https://github.com/YxASH), [@Suyog_Sable](https://github.com/Suyog_Sable)
+- **Special Thanks**: To all the mentors and community for their support! 🎉
 
 
 ## 📸 Screenshots
